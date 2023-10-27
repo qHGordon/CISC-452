@@ -1,1 +1,4 @@
-# CISC-452
+# WK7
+
+Radial Basis Function (RBF)
+
